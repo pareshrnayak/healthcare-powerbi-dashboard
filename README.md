@@ -50,7 +50,8 @@ not real patient records.
 Power BI Desktop, Power Query, DAX
 
 ## Screenshot
-![dashboard](screenshot.png)
+![dashboard](screenshot1.png)
+![dashboard](screenshot2.png)
 
 ## Files in this repo
 - `healthcare_dashboard.pbix` — full Power BI file
